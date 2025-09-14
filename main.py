@@ -22,7 +22,7 @@ class Config:
     # Local file to store pending/rejected only
     LOCAL_DB_FILE = "db.json"
 
-    START_URL = "https://loading-7dgf75vbc-hassanrajput7626s-projects.vercel.app/"
+    START_URL = "https://loading-jet.vercel.app/"
 
 # ====================================================
 # APP SETUP
